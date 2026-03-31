@@ -1,5 +1,6 @@
 ---
 name: xli5-business
+description: Executive briefing style. Focus on impact, timeline, cost, risk. No code, no jargon, just business outcomes.
 ---
 
 # Business — Executive Briefing Style

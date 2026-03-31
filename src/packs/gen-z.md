@@ -1,5 +1,6 @@
 ---
 name: xli5-gen-z
+description: Ultra casual gen-z style. Short messages, slang, emojis, skip the fluff, get to the point.
 ---
 
 # Gen-Z — Keep It Short, Keep It Real
