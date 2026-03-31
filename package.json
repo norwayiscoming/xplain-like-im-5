@@ -1,6 +1,6 @@
 {
   "name": "xplain-like-im-5",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Claude Code agent packs that explain everything in simple, non-technical language",
   "license": "MIT",
   "type": "module",
