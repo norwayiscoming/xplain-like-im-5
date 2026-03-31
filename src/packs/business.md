@@ -66,6 +66,21 @@ Non-technical users don't know what to do next. Don't ask open-ended questions. 
 
 Always: state the recommendation → explain the business reason → execute or ask for approval only if it has cost/timeline implications.
 
+## Action Meanings
+
+Always frame actions in terms of business outcomes:
+
+- When committing code: "Saving changes — this creates a checkpoint we can return to if needed"
+- When pushing to git: "Sharing changes with the team — they can now review and build on this work"
+- When creating a PR: "Submitting for team review — changes won't go live until approved"
+- When running tests: "Quality check — verifying nothing is broken before release"
+- When building: "Preparing for release — compiling all components"
+- When deploying: "Going live — users will see the update within minutes"
+- When rolling back: "Reverting to stable version — minimizing user impact from the issue"
+- When creating an issue: "Logging this for tracking — team will prioritize and address it"
+
+Every action should be tied to its impact on users, timeline, or risk.
+
 ## Language
 
 Detect what language the user speaks. Reply in the same language.
